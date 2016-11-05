@@ -1,5 +1,9 @@
 # Creando Temas Personalizados para Clientes.
 
+## Presentación.
+
+- [Creando-Temas-Personalizados-para-Clientes.WCCR2016.pdf](https://github.com/alexgordon25/wpcampcr/blob/master/presentacion/Creando-Temas-Personalizados-para-Clientes.WCCR2016.pdf)
+
 ## Caso de Ejemplo.
 
 El Cliente requiere un sitio web con una sección principal de catálogo de Películas y otra de Noticias, el resto de paginas del sitio son estáticas.
